@@ -1,0 +1,232 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+#include <assert.h>
+#include <exception>
+
+struct t58506160;
+struct t968488902;
+struct t3436592966;
+struct t837106420;
+struct t2779229935;
+
+#include "codegen/il2cpp-codegen.h"
+#include "t968488902.h"
+#include "t1688557254.h"
+#include "t837106420.h"
+#include "t339033936.h"
+#include "t2779229935.h"
+
+extern "C"  void m707299055 (t837106420 * __this , const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t58506160* m4258381458 (t837106420 * __this , t968488902* p0, bool p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t58506160* m901846280 (t837106420 * __this , t968488902* p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t968488902* m1841808901 (t837106420 * __this , t58506160* p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t968488902* m3905122085 (t837106420 * __this , t58506160* p0, int32_t p1, int32_t p2, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m3519963972 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m4054695157 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m4035732699 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m4285295428 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m1934898328 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m1934901273 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m2180767915 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m1934896530 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m1414469113 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m849533587 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m849536532 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m849531789 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m531114797 (t837106420 * __this , t837106420 * p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool m2689543975 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m1016186092 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m1388227464 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m3870622435 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m3752700205 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m4002262934 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m263200262 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m263203207 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m509069849 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m263198464 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m25971949 (t837106420 * __this , t968488902* p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m310449511 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m566501093 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m566504038 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m566499295 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint8_t m1585524373 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m975090646 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m353236550 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m353239495 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m2498420566 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m599106137 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m353234752 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3723111847 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3357626021 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3357628966 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3357624223 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m703219413 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m4273293575 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2667391648 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2667393446 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2667396391 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m1222840310 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m1253401141 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2913263033 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2082043967 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2082045765 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t339033936  m2082048710 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m841898000 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m3676664690 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m6300041 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m255862770 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m2497653290 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m2497656235 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m2743522877 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m2497651492 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m2501309835 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m1115068225 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m1115071170 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m1115066427 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t1688557254  m3776384697 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m1966172364 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m1367243830 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m525641411 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m1150945613 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m1400508342 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m3920050662 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m3920053607 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m4165920249 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m3920048864 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m4191850823 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m2259713797 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m2259716742 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m2259711999 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  double m1171958389 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m1720411158 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3439678764 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3440077982 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m279880205 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m4191059139 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m145654572 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3741024176 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3741027121 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3986893763 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3741022378 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m2248972561 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m1004860027 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m1004862972 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m1004858229 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m686441237 (t837106420 * __this , t837106420 * p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int16_t m3524047423 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m2303815306 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m100433720 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m100832938 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m863284353 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m3517141967 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m3766704696 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m3303645861 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m3549512503 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m3303641118 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m1053332613 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m330942855 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m330945800 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m330941057 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m12524065 (t837106420 * __this , t837106420 * p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t m2328407475 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m2815084104 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m4109529146 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m4109928364 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m1374553151 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m3672181841 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m3921744570 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m3031549538 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m3031552483 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m3277419125 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m3031547740 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m4240420881 (t837106420 * __this , t968488902* p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m946235843 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m485982729 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m485985674 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m485980931 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m167563939 (t837106420 * __this , t837106420 * p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int64_t m2221310705 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m523726500 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1290929502 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1291328720 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m3378162843 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m827320437 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1076883166 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1554306494 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1554309439 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1554304696 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1295525151 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1936088621 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1936091566 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m1936086823 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  int8_t m2570600013 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m3622587564 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m2381390934 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m2182056611 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m788736365 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m1038299094 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m998872518 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m998875463 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m1244742105 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m998870720 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m459230503 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m1897504549 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m1897507494 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m1897502751 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  float m1734305365 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t968488902* m427788191 (t837106420 * __this , t837106420 * p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t968488902* m1285681781 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m386651276 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3839993974 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3840393192 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3241087619 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m2346919309 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m2596482038 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3265893798 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3265896743 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3511763385 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3265892000 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3161828615 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3455687493 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m3455690438 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint16_t m141936181 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m175516108 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m2606324534 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m2606723752 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3029952451 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m2201561165 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m2451123894 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3676846822 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3676849767 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3922716409 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3676845024 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3903361607 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3310332294 (t837106420 * __this , uint64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m3310327551 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint32_t m883469173 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m3087942316 (t837106420 * __this , bool p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m67300950 (t837106420 * __this , uint8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m67700168 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m1647411363 (t837106420 * __this , t1688557254  p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m1741321069 (t837106420 * __this , double p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m1990883798 (t837106420 * __this , float p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2276527046 (t837106420 * __this , int32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2276529991 (t837106420 * __this , int64_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2522396633 (t837106420 * __this , int8_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2276525248 (t837106420 * __this , int16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m1711588135 (t837106420 * __this , t968488902* p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2850089253 (t837106420 * __this , uint32_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2850087455 (t837106420 * __this , uint16_t p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2531670463 (t837106420 * __this , t837106420 * p0, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  uint64_t m2986662997 (t837106420 * __this , t837106420 * p0, t837106420 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t837106420 * m2922880930 (t837106420 * __this , t837106420 * p0, t2779229935 * p1, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C"  t837106420 * m353901888 (t837106420 * __this , t837106420 * p0, t2779229935 * p1, t837106420 * p2, bool p3, const MethodInfo* method) IL2CPP_METHOD_ATTR;

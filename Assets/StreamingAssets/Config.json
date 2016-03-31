@@ -1,0 +1,23 @@
+{
+    "m_ClassifierDirectory": "Watson/Scripts/Editor/Classifiers/",
+    "m_TimeOut": 30.0,
+    "m_MaxRestConnections": 5,
+    "m_EnableGateway": false,
+    "m_GatewayURL": "",
+    "m_ProductKey": null,
+    "m_Credentials": [
+        {
+            "m_ServiceID": "SpeechToTextV1",
+            "m_URL": "https://stream.watsonplatform.net/speech-to-text/api",
+            "m_User": "e19af5b8-8dec-4415-ac29-78581c52839a",
+            "m_Password": "ANRArqQXyNDG"
+        },
+        {
+            "m_ServiceID": "NlcV1",
+            "m_URL": "https://gateway.watsonplatform.net/natural-language-classifier/api",
+            "m_User": "76af24d5-d877-4b9b-9c61-dc33145551d4",
+            "m_Password": "tqLYX1yOc6D3"
+        }
+    ],
+    "m_Variables": []
+}
